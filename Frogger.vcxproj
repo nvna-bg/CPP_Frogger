@@ -142,10 +142,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Frogger.cpp" />
+    <ClCompile Include="Stage1.cpp" />
+    <ClCompile Include="StageBase.cpp" />
     <ClCompile Include="World.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lib\olcConsoleGameEngine.h" />
+    <ClInclude Include="lib\stages\Stage1.h" />
+    <ClInclude Include="lib\stages\StageBase.h" />
     <ClInclude Include="World.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

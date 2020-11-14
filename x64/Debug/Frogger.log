@@ -1,0 +1,7 @@
+﻿  Frogger.cpp
+C:\Users\predte4a\Desktop\GAME\CPP_Frogger\lib\olcConsoleGameEngine.h(759,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\predte4a\Desktop\GAME\CPP_Frogger\lib\olcConsoleGameEngine.h(1099,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\predte4a\Desktop\GAME\CPP_Frogger\lib\olcConsoleGameEngine.h(1196,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\predte4a\Desktop\GAME\CPP_Frogger\Frogger.cpp(18,41): error C2248: 'Stage1::Stage1': cannot access private member declared in class 'Stage1'
+C:\Users\predte4a\Desktop\GAME\CPP_Frogger\lib\stages\Stage1.h(8): message : see declaration of 'Stage1::Stage1'
+C:\Users\predte4a\Desktop\GAME\CPP_Frogger\lib\stages\Stage1.h(6): message : see declaration of 'Stage1'
