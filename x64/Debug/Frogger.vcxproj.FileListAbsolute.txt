@@ -1,2 +1,0 @@
-C:\Users\predte4a\Desktop\GAME\CPP_Frogger\x64\Debug\Frogger.exe
-C:\Users\predte4a\Desktop\GAME\CPP_Frogger\x64\Debug\Frogger.pdb
